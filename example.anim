@@ -1,0 +1,118 @@
+animation_name: Example
+obj1: 
+  anim_count: 10
+  animations: 
+    1: l
+    2: l
+    3: l
+    4: l
+    5: l
+    6: l
+    7: l
+    8: l
+    9: l
+    10: l
+  backgr: 
+    1: blue
+    2: green
+    3: green
+    4: green
+    5: green
+    6: green
+    7: green
+    8: green
+    9: green
+    10: green
+  foregr: 
+    1: green
+    2: green
+    3: green
+    4: green
+    5: green
+    6: green
+    7: green
+    8: green
+    9: green
+    10: green
+  used: true
+  xpos: 
+    1: 8
+    2: 7
+    3: 6
+    4: 5
+    5: 4
+    6: 3
+    7: 2
+    8: 1
+    9: 0
+    10: 1
+  ypos: 
+    1: 8
+    2: 7
+    3: 6
+    4: 5
+    5: 4
+    6: 3
+    7: 2
+    8: 1
+    9: 0
+    10: 1
+obj2: 
+  anim_count: 10
+  animations: 
+    1: l
+    2: l
+    3: l
+    4: l
+    5: l
+    6: l
+    7: o
+    8: k
+    9: k
+    10: l
+  backgr: 
+    1: blue
+    2: blue
+    3: blue
+    4: blue
+    5: blue
+    6: blue
+    7: blue
+    8: blue
+    9: blue
+    10: blue
+  foregr: 
+    1: blue
+
+    2: blue
+    3: blue
+    4: blue
+    5: blue
+    6: blue
+    7: blue
+    8: blue
+    9: blue
+    10: blue
+  used: true
+  xpos: 
+    1: 8
+    2: 7
+    3: 6
+    4: 5
+    5: 4
+    6: 3
+    7: 2
+    8: 1
+    9: 0
+    10: 1
+  ypos: 
+    1: 18
+    2: 17
+    3: 16
+    4: 15
+    5: 14
+    6: 13
+    7: 12
+    8: 11
+    9: 10
+    10: 11
